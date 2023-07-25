@@ -57,7 +57,7 @@ const Person = () => {
                         Posts and Telecommunications Institute of Technology (PTIT) 
                     </div>
                     <span>08/2020 - now</span>
-                    <div>Specialization: Software engineering</div>
+                    <div>Major: Software engineering</div>
                 </div>
             </div>
         </div>

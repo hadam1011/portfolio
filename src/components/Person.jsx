@@ -78,7 +78,7 @@ const Person = () => {
         <div>
             <div className='font-bold text-gray-600 mt-4 mb-2'>Front-end</div>
             <ul className='list-disc list-inside'>
-                <li>HTML/CSS, TailwindCss, Javascript</li>
+                <li>HTML/CSS, TailwindCss, Ant Design, Javascript</li>
                 <li>ReactJs</li>
             </ul>  
         </div>

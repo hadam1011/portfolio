@@ -8,7 +8,7 @@ const Person = () => {
         <h1 className='text-4xl mb-8 font-bold text-center text-[#001b5e]'>Person</h1>
         <div className='flex flex-col justify-center items-center gap-4 md:flex-row'>
             <img
-                src='https://scontent.xx.fbcdn.net/v/t1.15752-9/362683693_940632827002244_8748222126597719218_n.jpg?stp=dst-jpg_s403x403&_nc_cat=106&ccb=1-7&_nc_sid=aee45a&_nc_ohc=N5ZyC87_XcoAX8Md_lp&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSPQajikx2zo7T0ri0_f6Uxgr34EzQGt5v1b-JPDiNnFQ&oe=64E46DCA'
+                src='https://res.cloudinary.com/dmllqeqdn/image/upload/v1700903772/5703dcbc998b5cd5059a.jpg'
                 className='max-h-[300px] max-w-[250px]'
             />
             <div className='w-full flex flex-col'>

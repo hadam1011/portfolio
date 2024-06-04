@@ -69,7 +69,7 @@ const Person = () => {
         <div>
             <div className='font-bold text-gray-600 mb-2'>English (TOEIC)</div>
             <div className='flex justify-between flex-wrap'>
-                <img src='https://scontent.xx.fbcdn.net/v/t1.15752-9/361971570_263578496372103_5508331819709074151_n.jpg?stp=dst-jpg_p403x403&_nc_cat=102&ccb=1-7&_nc_sid=aee45a&_nc_ohc=iPzf1jKcBl0AX-9O3LR&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQ69mtE5xaULaMrx_fsh4lKwtOGNiaLr-ix-6HLTRJ5Jw&oe=64E47B99'
+                <img src='https://res.cloudinary.com/dmllqeqdn/image/upload/v1717485053/B20DCCN211.jpg'
                 className='max-w-[50%] max-h-[200px]    '
                 />
                 <span>11/09/2022 - 11/09/2024</span>
